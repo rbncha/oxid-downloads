@@ -1,4 +1,4 @@
 OXID_ESHOP_master
 ==============
 
-http://wiki.oxidforge.org/Category:Downloads
+https://github.com/proudcommerce/oxid-downloads/archive/master.zip
